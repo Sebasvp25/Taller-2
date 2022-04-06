@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller 2", "Taller 2.csproj", "{0C235C75-F090-47C4-A08E-3726F4B8A768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElJugonSAS", "ElJugonSAS.csproj", "{0C235C75-F090-47C4-A08E-3726F4B8A768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas Unitarias", "..\Pruebas Unitarias\Pruebas Unitarias.csproj", "{81A79C47-5AB6-4AB9-BEA7-0EF0A5BBF38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pruebas Unitarias", "..\Pruebas Unitarias\Pruebas Unitarias.csproj", "{81A79C47-5AB6-4AB9-BEA7-0EF0A5BBF38D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
